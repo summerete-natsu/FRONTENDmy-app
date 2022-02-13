@@ -29,7 +29,7 @@ function Frame() {
                             
                             
                             <Typography variant="h6" >
-                                記事作成
+                                ラーメンUpdate
                             </Typography>
                             <Button color="inherit" className="ButtonStyle"  >Login</Button>
                         </Toolbar>
